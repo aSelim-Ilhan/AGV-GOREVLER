@@ -48,6 +48,7 @@ Tüm bu veriler, yazdığımız Python Kontrol Düğümünde (OdomAvoider) birle
 ## 🎥 GÖREV-2
 ![GÖREV-2 Demo](videos/gorev2.gif)
 
+
 GÖREV-1 ALGORİTMA
 
 <img width="2438" height="1760" alt="mermaid-diagram-2025-12-14-212817" src="https://github.com/user-attachments/assets/bcd93858-a212-43b3-8678-916bcb022900" />
