@@ -47,8 +47,11 @@ Tüm bu veriler, yazdığımız Python Kontrol Düğümünde (OdomAvoider) birle
 <img width="2904" height="4665" alt="Robot Obstacle Avoidance-2025-12-14-183225" src="https://github.com/user-attachments/assets/c4106c57-22d7-4b6a-8c5e-2aee2c075f01" />
 
 
-ALGORİTMA
+GÖREV-1 ALGORİTMA
 
 <img width="2438" height="1760" alt="mermaid-diagram-2025-12-14-212817" src="https://github.com/user-attachments/assets/bcd93858-a212-43b3-8678-916bcb022900" />
 
 
+GÖREV-1 ALGORİTMA
+
+<img width="2438" height="1760" alt="mermaid-diagram-2025-12-15-173746" src="https://github.com/user-attachments/assets/fd58723d-3692-48df-b648-249b14cc2337" />
