@@ -1,11 +1,16 @@
 # AGV-AK-BA-
 
 
-GÖREV-1
-https://youtu.be/zSRH-MrxQ3o
+## 🎥 GÖREV-1
 
-GÖREV-2
-https://youtu.be/oVreA34wx6E
+[![GÖREV-1 Video](https://img.youtube.com/vi/zSRH-MrxQ3o/maxresdefault.jpg)](https://youtu.be/zSRH-MrxQ3o)
+
+---
+
+## 🎥 GÖREV-2
+
+[![GÖREV-2 Video](https://img.youtube.com/vi/oVreA34wx6E/maxresdefault.jpg)](https://youtu.be/oVreA34wx6E)
+
 
 
 1. Veri Kaynağı ve İletişim (STM32 & Micro-ROS)
