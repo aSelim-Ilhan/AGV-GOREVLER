@@ -1,18 +1,5 @@
 # AGV-AK-BA-
 
-
-## 🎥 GÖREV-1
-
-[![GÖREV-1 Video](https://img.youtube.com/vi/zSRH-MrxQ3o/hqdefault.jpg)](https://youtu.be/zSRH-MrxQ3o)
-
----
-
-## 🎥 GÖREV-2
-
-[![GÖREV-2 Video](https://img.youtube.com/vi/oVreA34wx6E/maxresdefault.jpg)](https://youtu.be/oVreA34wx6E)
-
-
-
 1. Veri Kaynağı ve İletişim (STM32 & Micro-ROS)
 
 Sistemin kalbinde, düşük seviyeli kontrolcü olan STM32 bulunur. Micro-ROS ajanı başlatıldığında, STM32 kartı ROS2 ağına 3 temel veri başlığı (topic) sunar:
@@ -53,6 +40,17 @@ Tüm bu veriler, yazdığımız Python Kontrol Düğümünde (OdomAvoider) birle
 
 <img width="2904" height="4665" alt="Robot Obstacle Avoidance-2025-12-14-183225" src="https://github.com/user-attachments/assets/c4106c57-22d7-4b6a-8c5e-2aee2c075f01" />
 
+## 🎥 GÖREV-1
+
+[![GÖREV-1 Video](https://img.youtube.com/vi/zSRH-MrxQ3o/hqdefault.jpg)](https://youtu.be/zSRH-MrxQ3o)
+
+---
+
+## 🎥 GÖREV-2
+
+[![GÖREV-2 Video](https://img.youtube.com/vi/oVreA34wx6E/maxresdefault.jpg)](https://youtu.be/oVreA34wx6E)
+
+---
 
 GÖREV-1 ALGORİTMA
 
