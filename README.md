@@ -5,6 +5,8 @@
 
 [![GÖREV-1 Video](https://img.youtube.com/vi/zSRH-MrxQ3o/maxresdefault.jpg)](https://youtu.be/zSRH-MrxQ3o)
 
+
+
 ---
 
 ## 🎥 GÖREV-2
