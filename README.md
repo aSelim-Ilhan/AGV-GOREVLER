@@ -1,17 +1,10 @@
 # AGV-AK-BA-
 
 
-## 🎥 GÖREV-1
+### 🎥 Videolar
 
-[![GÖREV-1 Video](https://img.youtube.com/vi/zSRH-MrxQ3o/maxresdefault.jpg)](https://youtu.be/zSRH-MrxQ3o)
-
-
-
----
-
-## 🎥 GÖREV-2
-
-[![GÖREV-2 Video](https://img.youtube.com/vi/oVreA34wx6E/maxresdefault.jpg)](https://youtu.be/oVreA34wx6E)
+[![GÖREV-1](https://img.youtube.com/vi/zSRH-MrxQ3o/mqdefault.jpg)](https://youtu.be/zSRH-MrxQ3o)
+[![GÖREV-2](https://img.youtube.com/vi/oVreA34wx6E/mqdefault.jpg)](https://youtu.be/oVreA34wx6E)
 
 
 
