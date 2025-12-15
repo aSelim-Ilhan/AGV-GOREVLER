@@ -45,6 +45,7 @@ Tüm bu veriler, yazdığımız Python Kontrol Düğümünde (OdomAvoider) birle
 
 ---
 
+https://youtu.be/zSRH-MrxQ3o
 
 GÖREV-1 ALGORİTMA
 
@@ -57,6 +58,8 @@ GÖREV-1 ALGORİTMA
 ![GÖREV-2 Demo](videos/gorev2.gif)
 
 ---
+
+https://youtu.be/oVreA34wx6E
 
 GÖREV-2 ALGORİTMA
 
