@@ -68,7 +68,7 @@ class OdomAvoider(Node):
     def normalize_angle(self, angle):
         """Açıyı -180 ile +180 arasına sıkıştırır"""
         while angle > 180: angle -= 360
-        while angle < -180: angle += 360
+        while angle < -180: angle += 360 
         return angle
 
     def control_loop(self):
