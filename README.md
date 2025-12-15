@@ -44,10 +44,11 @@ Tüm bu veriler, yazdığımız Python Kontrol Düğümünde (OdomAvoider) birle
 
     Engel varsa dur ve /wheel_odom verisini referans alarak tam 90 derece dön.
 
-<img width="2904" height="4665" alt="Robot Obstacle Avoidance-2025-12-14-183225" src="https://github.com/user-attachments/assets/d73120af-3464-4104-b1a9-991f62611824" />
+<img width="2904" height="4665" alt="Robot Obstacle Avoidance-2025-12-14-183225" src="https://github.com/user-attachments/assets/c4106c57-22d7-4b6a-8c5e-2aee2c075f01" />
+
 
 ALGORİTMA
 
-<img width="2438" height="1760" alt="mermaid-diagram-2025-12-14-212817" src="https://github.com/user-attachments/assets/0df53400-ba57-42cb-a530-abced6d63cd7" />
+<img width="2438" height="1760" alt="mermaid-diagram-2025-12-14-212817" src="https://github.com/user-attachments/assets/bcd93858-a212-43b3-8678-916bcb022900" />
 
 
