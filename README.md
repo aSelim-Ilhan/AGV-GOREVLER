@@ -1,9 +1,10 @@
 # AGV-AK-BA-
 
-VİDEO
 
+GÖREV-1
 https://youtu.be/zSRH-MrxQ3o
-
+GÖREV-2
+https://youtu.be/oVreA34wx6E
 
 
 1. Veri Kaynağı ve İletişim (STM32 & Micro-ROS)
@@ -52,6 +53,6 @@ GÖREV-1 ALGORİTMA
 <img width="2438" height="1760" alt="mermaid-diagram-2025-12-14-212817" src="https://github.com/user-attachments/assets/bcd93858-a212-43b3-8678-916bcb022900" />
 
 
-GÖREV-1 ALGORİTMA
+GÖREV-2 ALGORİTMA
 
 <img width="2438" height="1760" alt="mermaid-diagram-2025-12-15-173746" src="https://github.com/user-attachments/assets/fd58723d-3692-48df-b648-249b14cc2337" />
