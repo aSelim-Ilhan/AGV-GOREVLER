@@ -3,6 +3,7 @@
 
 GÖREV-1
 https://youtu.be/zSRH-MrxQ3o
+
 GÖREV-2
 https://youtu.be/oVreA34wx6E
 
